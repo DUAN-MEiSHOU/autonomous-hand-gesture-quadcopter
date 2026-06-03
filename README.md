@@ -9,3 +9,5 @@ Phase 1 - Gesture Recognition MVP
 ## Status
 
 Planning
+
+## Learning Git
